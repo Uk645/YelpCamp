@@ -1,0 +1,17 @@
+.thumbnail img{
+    width: 100%;
+}
+.thumbnail{
+    margin: 25px auto;
+}
+#deleteform{
+    display: inline;
+}
+.disp-form{
+    width:40%; 
+    margin: 25px auto;
+}
+#disp-form-name{
+    margin:0 auto;
+    text-align:center;"
+}
