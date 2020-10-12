@@ -45,7 +45,7 @@ app.use(commentroutes);
 app.use(indexroutes);
 
 
- app.listen(3000,function(req,res){
+ app.listen(process.env.PORT || 3000,function(req,res){
 	console.log("Yelcamp server started");
  });
  
